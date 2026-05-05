@@ -1,7 +1,7 @@
 
 # Noah Merrell
 
-Hello, GitHub! 👋
+Hello, GitHub!
 
 I'm Noah Merrell, a student at Brigham Young University-Idaho interested in computer science and web development. Welcome to my GitHub profile!
 
@@ -20,4 +20,10 @@ I'm Noah Merrell, a student at Brigham Young University-Idaho interested in comp
 
 - Here is my [LinkedIn](https://www.linkedin.com/in/noah-merrell) profile
 
-Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
+Feel free to explore my repositories and don't hesitate to reach out. Each repository contains various coursework or projects I've worked on. A few notable ones include:
+
+- [Time Slime](https://github.com/NoahWMerrell/time-slime): A simple 2D platformer featuring a slime that travels through time.
+- [Portfolio Website](https://github.com/NoahWMerrell/portfolio): A website hosted on GitHub pages containing basic information about myself. **NOTE:** A lot of the information on this site is outdated, you can access the site directly [here](https://noahwmerrell.github.io/portfolio/).
+- [Messages (XAMPP Test)](https://github.com/NoahWMerrell/time-slime): This project is a basic website that allows for search functionality by utilizing an SQL database and php.
+
+Happy coding!
