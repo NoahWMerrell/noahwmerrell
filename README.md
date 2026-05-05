@@ -24,6 +24,6 @@ Feel free to explore my repositories and don't hesitate to reach out. Each repos
 
 - [Time Slime](https://github.com/NoahWMerrell/time-slime): A simple 2D platformer featuring a slime that travels through time.
 - [Portfolio Website](https://github.com/NoahWMerrell/portfolio): A website hosted on GitHub pages containing basic information about myself. **NOTE:** A lot of the information on this site is outdated, you can access the site directly [here](https://noahwmerrell.github.io/portfolio/).
-- [Messages (XAMPP Test)](https://github.com/NoahWMerrell/time-slime): This project is a basic website that allows for search functionality by utilizing an SQL database and php.
+- [Messages (XAMPP Test)](https://github.com/NoahWMerrell/test-xampp): This project is a basic website that allows for search functionality by utilizing an SQL database and php.
 
 Happy coding!
